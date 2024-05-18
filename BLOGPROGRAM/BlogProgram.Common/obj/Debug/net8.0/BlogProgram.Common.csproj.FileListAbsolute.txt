@@ -1,0 +1,12 @@
+C:\C#_Projects\BlogProgram.Common\bin\Debug\net8.0\BlogProgram.Common.deps.json
+C:\C#_Projects\BlogProgram.Common\bin\Debug\net8.0\BlogProgram.Common.dll
+C:\C#_Projects\BlogProgram.Common\bin\Debug\net8.0\BlogProgram.Common.pdb
+C:\C#_Projects\BlogProgram.Common\obj\Debug\net8.0\BlogProgram.Common.csproj.AssemblyReference.cache
+C:\C#_Projects\BlogProgram.Common\obj\Debug\net8.0\BlogProgram.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#_Projects\BlogProgram.Common\obj\Debug\net8.0\BlogProgram.Common.AssemblyInfoInputs.cache
+C:\C#_Projects\BlogProgram.Common\obj\Debug\net8.0\BlogProgram.Common.AssemblyInfo.cs
+C:\C#_Projects\BlogProgram.Common\obj\Debug\net8.0\BlogProgram.Common.csproj.CoreCompileInputs.cache
+C:\C#_Projects\BlogProgram.Common\obj\Debug\net8.0\BlogProgram.Common.dll
+C:\C#_Projects\BlogProgram.Common\obj\Debug\net8.0\refint\BlogProgram.Common.dll
+C:\C#_Projects\BlogProgram.Common\obj\Debug\net8.0\BlogProgram.Common.pdb
+C:\C#_Projects\BlogProgram.Common\obj\Debug\net8.0\ref\BlogProgram.Common.dll
